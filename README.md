@@ -4,7 +4,7 @@ Neste repositório aprendemos alguns conceitos sobre erros no JavaScript e HTML,
 ## Informações:
 Escola: ETE FMC - https://www.etefmc.com.br/
 
-Curso: Desenvolvimento de sistemas
+Curso: Linguagem de programação
 
 Matéria: Linguagem de programação
 
