@@ -8,7 +8,7 @@ Curso: Linguagem de programação
 
 Matéria: Linguagem de programação
 
-### autor:
+### Aluno:
 Nome: Marcus Vinicius Ferreira Oliveira
 
 Número: 29
